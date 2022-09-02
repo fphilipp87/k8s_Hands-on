@@ -1,0 +1,17 @@
+[2022-08-31 19:53:30.842] [exthost] [info] Extension host with pid 1269 started
+[2022-08-31 19:53:32.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-31 19:53:32.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-31 19:53:32.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-31 19:53:32.451] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: true, activationEvent: '*', root cause: mindaro.mindaro
+[2022-08-31 19:53:32.907] [exthost] [info] ExtensionService#_doActivateExtension mindaro-dev.file-downloader, startup: true, activationEvent: '*', root cause: mindaro.mindaro
+[2022-08-31 19:53:33.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-31 19:53:33.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-31 19:53:34.040] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools, startup: true, activationEvent: '*', root cause: mindaro.mindaro
+[2022-08-31 19:53:35.558] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-08-31 19:53:35.649] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-08-31 19:53:35.704] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-08-31 19:53:35.739] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-08-31 19:53:36.886] [exthost] [info] ExtensionService#_doActivateExtension mindaro.mindaro, startup: true, activationEvent: '*'
+[2022-08-31 19:53:41.288] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-31 19:53:41.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-31 19:53:41.429] [exthost] [info] Eager extensions activated

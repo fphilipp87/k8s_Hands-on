@@ -1,0 +1,16 @@
+[2022-08-31 17:48:53.259] [exthost] [info] Extension host with pid 6455 started
+[2022-08-31 17:48:53.300] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/7625c8320da23538544cf815ff54a62b/vscode.lock': Lock acquired.
+[2022-08-31 17:48:53.771] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-31 17:48:53.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-08-31 17:48:53.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-31 17:48:54.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-31 17:48:54.607] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-31 17:48:54.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-31 17:48:54.663] [exthost] [info] Eager extensions activated
+[2022-08-31 17:48:55.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-08-31 18:00:25.599] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: '*', root cause: mindaro.mindaro
+[2022-08-31 18:00:25.843] [exthost] [info] ExtensionService#_doActivateExtension mindaro-dev.file-downloader, startup: false, activationEvent: '*', root cause: mindaro.mindaro
+[2022-08-31 18:00:26.117] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools, startup: false, activationEvent: '*', root cause: mindaro.mindaro
+[2022-08-31 18:00:28.548] [exthost] [info] ExtensionService#_doActivateExtension mindaro.mindaro, startup: false, activationEvent: '*'
+[2022-08-31 18:00:29.361] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-08-31 18:00:29.403] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.

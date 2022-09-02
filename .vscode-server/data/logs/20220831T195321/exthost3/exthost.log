@@ -1,0 +1,21 @@
+[2022-08-31 19:54:13.577] [exthost] [info] Extension host with pid 3214 started
+[2022-08-31 19:54:13.583] [exthost] [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/7625c8320da23538544cf815ff54a62b/vscode.lock'
+[2022-08-31 19:54:13.597] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/7625c8320da23538544cf815ff54a62b/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-08-31 19:54:13.604] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/7625c8320da23538544cf815ff54a62b/vscode.lock': The pid 6455 appears to be gone.
+[2022-08-31 19:54:13.604] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/7625c8320da23538544cf815ff54a62b/vscode.lock': Deleting a stale lock.
+[2022-08-31 19:54:13.612] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/7625c8320da23538544cf815ff54a62b/vscode.lock': Lock acquired.
+[2022-08-31 19:54:13.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-31 19:54:13.960] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-31 19:54:13.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-31 19:54:14.008] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: true, activationEvent: '*', root cause: mindaro.mindaro
+[2022-08-31 19:54:14.267] [exthost] [info] ExtensionService#_doActivateExtension mindaro-dev.file-downloader, startup: true, activationEvent: '*', root cause: mindaro.mindaro
+[2022-08-31 19:54:15.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-31 19:54:15.297] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-31 19:54:15.329] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools, startup: true, activationEvent: '*', root cause: mindaro.mindaro
+[2022-08-31 19:54:17.001] [exthost] [info] ExtensionService#_doActivateExtension mindaro.mindaro, startup: true, activationEvent: '*'
+[2022-08-31 19:54:17.547] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-08-31 19:54:17.623] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-08-31 19:54:19.511] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-08-31 19:54:21.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-31 19:54:21.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-31 19:54:21.748] [exthost] [info] Eager extensions activated

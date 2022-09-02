@@ -1,0 +1,21 @@
+[2022-09-01 16:12:52.285] [exthost] [info] Extension host with pid 7842 started
+[2022-09-01 16:12:52.316] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/5f1f27a26ed718b9a1c37911497c00bc/vscode.lock': Lock acquired.
+[2022-09-01 16:12:52.810] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-01 16:12:52.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-01 16:12:52.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-01 16:12:52.948] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: true, activationEvent: '*', root cause: mindaro.mindaro
+[2022-09-01 16:12:53.264] [exthost] [info] ExtensionService#_doActivateExtension mindaro-dev.file-downloader, startup: true, activationEvent: '*', root cause: mindaro.mindaro
+[2022-09-01 16:12:53.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-01 16:12:54.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-01 16:12:54.085] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools, startup: true, activationEvent: '*', root cause: mindaro.mindaro
+[2022-09-01 16:12:56.223] [exthost] [info] ExtensionService#_doActivateExtension mindaro.mindaro, startup: true, activationEvent: '*'
+[2022-09-01 16:12:57.170] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-09-01 16:12:57.321] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-09-01 16:12:57.583] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-09-01 16:12:57.640] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-09-01 16:13:02.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-01 16:13:02.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-01 16:13:02.929] [exthost] [info] Eager extensions activated
+[2022-09-01 17:09:47.416] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-01 17:09:47.416] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/5f1f27a26ed718b9a1c37911497c00bc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-01 17:09:47.467] [exthost] [info] Extension host with pid 7842 exiting with code 0

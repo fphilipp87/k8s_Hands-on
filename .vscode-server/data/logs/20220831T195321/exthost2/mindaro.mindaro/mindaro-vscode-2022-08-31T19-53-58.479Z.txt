@@ -1,0 +1,12 @@
+2022-08-31T19:53:59.156Z | Common Extension Root    | TRACE | query-expfeature <json>{"ABExp.queriedFeature":"vscode.mindaroBinariesVersion-doesnotexist","remoteName":"ssh-remote"}</json>
+2022-08-31T19:53:59.157Z | Common Extension Root    | TRACE | Call to ExP returned version 'undefined' <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:53:59.157Z | Common Extension Root    | TRACE | Resolved expected CLI version '1.0.20220816.2' <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:53:59.183Z | Common Extension Root    | TRACE | Event: binaries-utility-version-v1 <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:53:59.187Z | Common Extension Root    | TRACE | Making sure that the CLI is present locally, by downloading it if needed <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:53:59.190Z | Common Extension Root    | TRACE | Making sure that the CLI is present locally, by downloading it if needed <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:53:59.192Z | Common Extension Root    | TRACE | Successfully determined the CLI binary path: /home/ubuntu/.vscode-server/data/User/globalStorage/mindaro.mindaro/file-downloader-downloads/binaries/dsc <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:53:59.194Z | Common Extension Root    | TRACE | Successfully determined the kubectl binary path: /home/ubuntu/.vscode-server/data/User/globalStorage/mindaro.mindaro/file-downloader-downloads/binaries/kubectl/linux/kubectl <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:54:00.974Z | Common Extension Root    | TRACE | Event: cli-client-get-version-success <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:54:00.975Z | Common Extension Root    | TRACE | Found local CLI version: '1.0.20220816.2'. Expected version: '1.0.20220816.2' <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:54:00.975Z | Common Extension Root    | TRACE | Local CLI has version number '1.0.20220816.2', which is equal to the required '1.0.20220816.2' <json>{"remoteName":"ssh-remote"}</json>
+2022-08-31T19:54:00.977Z | Common Extension Root    | TRACE | Event: kubectl-client-command <json>{"args":"version --short --client -o json","remoteName":"ssh-remote"}</json>
